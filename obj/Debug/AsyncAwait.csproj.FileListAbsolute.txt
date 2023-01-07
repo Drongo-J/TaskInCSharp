@@ -1,0 +1,8 @@
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\obj\Debug\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\obj\Debug\AsyncAwait.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\AsyncAwait\obj\Debug\AsyncAwait.pdb
